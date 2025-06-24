@@ -8,6 +8,9 @@
 >
 >欢迎大家关注我的其他仓库
 >
+
+[点击此处下载程序和文件](https://github.com/WorldDawnAres/internet_keshe/releases)
+
 >总设网络计图如下
 
 ![Screenshot 1](./Pictures/1.png "可选标题")
