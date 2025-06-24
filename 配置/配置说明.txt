@@ -1,0 +1,9 @@
+1.cfg-5.cfg分别对应1号公寓交换机-5号公寓交换机
+center.cfg为核心交换机
+coreswitch.cfg为中心机房交换机
+dhcp1.cfg为dhcp
+ex.cfg为出口路由
+filewall.cfg为防火墙
+interswitch.cfg为外网交换机
+isp.cfg为ISP路由
+dhcp.cfg为交换机文件
